@@ -6,5 +6,6 @@ The game has two phases. One is the client phase, and one is the server phase. T
 The program/game continues till a client has entered an answer for all the questions, upon which he/she receives his final score.
 
 **Sample Screenshot:**
+
 ![Screenshot 2023-04-12 143419](https://user-images.githubusercontent.com/79295754/232965443-4f041ae6-f8a1-46c9-b126-933bef922aa4.png)
 
